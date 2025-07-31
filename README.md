@@ -1,4 +1,4 @@
-# 🧠 Transformer From Scratch (PyTorch)
+#  Transformer From Scratch (PyTorch)
 
 This repository contains my **from-scratch implementation of the Transformer architecture**, as described in the paper:
 
@@ -9,7 +9,7 @@ I built this project to deeply understand how Transformers work under the hood, 
 
 ---
 
-## 📌 Features
+##  Features
 
 -  Multi-Head Self-Attention
 -  Positional Encoding
