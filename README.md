@@ -11,13 +11,13 @@ I built this project to deeply understand how Transformers work under the hood, 
 
 ## 📌 Features
 
-- ✅ Multi-Head Self-Attention
-- ✅ Positional Encoding
-- ✅ Layer Normalization
-- ✅ Encoder & Decoder blocks
-- ✅ Scaled Dot-Product Attention
-- ✅ Masking (padding & look-ahead)
-- ✅ Feed-Forward Networks
+-  Multi-Head Self-Attention
+-  Positional Encoding
+-  Layer Normalization
+-  Encoder & Decoder blocks
+-  Scaled Dot-Product Attention
+-  Masking (padding & look-ahead)
+-  Feed-Forward Networks
 
 ---
 
